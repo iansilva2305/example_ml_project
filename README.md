@@ -1,7 +1,7 @@
 # This is an ML Project
 
 ## Instructions:
-* clone repository
+* clone repository.
 * Run `make install` to install dependencies
 * Run `make test` to test end-to-end workflow
 * 
